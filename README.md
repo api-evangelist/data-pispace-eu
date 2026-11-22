@@ -64,23 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-PiSpace Data – Global Statistics Explorer is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+PiSpace Open Data provides free access to public statistics from official sources, offering charts, tables, and downloadable CSV/JSON data for over 314 measures across 217 countries. The platform aggregates data from 11 reputable sources such as the ECB, Eurostat, World Bank, and WHO, updating regularly without requiring accounts or subscriptions. Users can explore, compare, and download data for research, analysis, or personal use, all under the original source licences.
 
-**Areas:** Company
+**Areas:** Company · Data · Statistics · OpenData · Public
 
 ## PiSpace Data – Global Statistics Explorer on APIs.io
 
 Everything profiled for PiSpace Data – Global Statistics Explorer is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/data-pispace-eu/](https://apis.io/providers/data-pispace-eu/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [PiSpace Open Data API](https://apis.io/apis/data-pispace-eu/pispace-open-data-api/) — Free public API providing statistical data via REST endpoints such as /api/v1/countries and /api/v1/indicators. No machine‑readable OpenAPI spec was found.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [PiSpace Data – Global Statistics Explorer Domain Security](https://apis.io/security/data-pispace-eu/data-pispace-eu-domain-security/)
+- [PiSpace Data – Global Statistics Explorer Vulnerability Disclosure](https://apis.io/security/data-pispace-eu/data-pispace-eu-vulnerability-disclosure/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://data.pispace.eu)
+- [Documentation](https://data.pispace.eu/developers)
+- [Terms of service](https://data.pispace.eu/terms)
+- [Privacy policy](https://data.pispace.eu/privacy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/data-pispace-eu/](https://apis.io/providers/data-pispace-eu/).
+**Kin Score 16.2** — emerging · rubric 0.28.0 · scored 2026-11-22
+
+| Facet | Score |
+|---|---|
+| Discoverability | 76.8 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 16.0 |
+| Access clarity | 17.0 |
+
+**Agent readiness 6.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 19.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/data-pispace-eu/](https://apis.io/providers/data-pispace-eu/).
 
 ## How this profile is made
 
